@@ -1,0 +1,13 @@
+hey brian,
+
+this is a hello for our code jam started 16 months ago!
+
+I'm using text mate as an editor now becasue a git class I was taking used it and I tied it to my terminal really easily. I did a little more VIMing, but I this is a little quicker for me now so i'm rolling with it. I like the modal concept, but its nice to move around like most editors.
+
+Ok. So I cloned the code jam and will use this as a place to work on stuff together and even log questions eventually. 
+
+After taking half of the git class, I thought I would try the git quiz on linked in. I didnt pass : ) i didn't pass the python one either, but i like taking tests to see where I can focus some energy. 
+
+this text editor is actually pretty cool. It shows the line number on the left and just a dot when its visually on the next line, but not an actual newline. That visual helps me a lot and I didn't even know it exsisted. 
+
+I solved my jupyter problem by a new pip3 install. using sys.path I can see that its different now and I know where the old one is. I hesitate to delete it all because I don't know what else is in there that needs to be saved. probably nothing. OK.. this text file is more for me than you but thank you if you've read this far. 
