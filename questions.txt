@@ -39,6 +39,26 @@ Ok.. thats all for now. I will try to add to this stuff and maybe it will help m
 
 
 
+I'm adding questions to this doc for the first time. again, its more for myself. I know you will know this.
+
+I have 1 commit with you right now.. and it involves three files at once. 
+
+I imagine thats not an ideal situation. 
+
+So one of my missions is 
+
+??? how do I change the message on one file that was commited at the same time as three other files?
+
+lets see if I can come up with a few more while i'm here.
+
+One tool for this questions format is that i'm putting three ??? before any real question. 
+
+So we can skip my bullshit with a regex or search or something. 
+
+I can't sleep so i'm going to commit this and read some of that UNIX book.. 
+
+I might start over and write some questions down : ) 
+
 
 
 
