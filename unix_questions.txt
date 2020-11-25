@@ -13,3 +13,11 @@ The Practice of Programming [Kernighan-Pike99]
 Zen Flesh, Zen Bones [Reps-Senzaki]
 
 munger? munger1() and better yet man 1 man
+
+GIMP and the case studies
+
+ARPANET and uniform resource locator URL
+
+Ken Thomson
+
+
