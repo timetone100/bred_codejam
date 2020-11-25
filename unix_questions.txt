@@ -1,0 +1,15 @@
+four parts: Context, Design, Tools, and Communit
+
+sed or yacc or Perl or Python
+
+Kernighan and Pike’s The Unix Programming Environment
+
+Mike Gancarz’s The Unix Philosophy
+
+The Pragmatic Programmer [Hunt-Thomas] 
+
+The Practice of Programming [Kernighan-Pike99]
+
+Zen Flesh, Zen Bones [Reps-Senzaki]
+
+munger? munger1() and better yet man 1 man
