@@ -19,5 +19,51 @@ GIMP and the case studies
 ARPANET and uniform resource locator URL
 
 Ken Thomson
+Dennis Richie
+
+CLI vs GUI
+
+VMS and COLBOL
+MacOS
+OS2/IBM
+windownNT
+windowsME
+
+
+Section 2 Design
+
+API's as communication between modules
+
+
+The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information [Miller] 
+
+
+Among Unix tools, make
+(1) is compact; autoconf
+(1) and automake1) are not. Among markup languages, HTML is semi-compact, but DocBook (a documentation markup language we shall discuss in Chapter 18) is not. The man(7) macros are compact, but troff(1) markup is not.
+
+Far too many software designs are non-orthogonal. One common class of design mistake, for example, occurs in code that reads and parses data from one (source) format to another (target) format. A designer who thinks of the source format as always being stored in a disk file may write the conversion function to open and read from a named file. Usually the input could just as well
+ have been any file handle. If the conversion routine were designed orthogonally, e.g., without the side effect of opening a file, it could save work later when the conversion has to be done on a data stream supplied from standard input, a network socket, or any other source.
+
+Refactoring [Fowler]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
