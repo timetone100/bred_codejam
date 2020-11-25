@@ -1,0 +1,60 @@
+ok, i'm in insert mode in vim.
+
+and now that I think of it. if i'm in insert mode, this is pretty much the same as any text editor. Not being able to move strait down is annoying, but I bet theres a trick for it. I bet theres also a plugin or something that gives you the number of line on the left and maybe even dots to indicate when its just a visual line. if you know what i mean.
+
+Ok. So i'm going to try to consolidaate and update questions here. My first one is pretty simple.
+
+??? what is the rc at the end of .vimrc and .zshrc? 
+
+my guess is remote control, but that barely makes sense. 
+
+It has been cool to make edits to all these hidden files. I'm starting to see how files like gitconfig etc have parameters that you add/edit to make changes to the program functions. 
+
+You mentioned "process" in response to me refrencing PATH. that will be interesting. I wrote down four general topics to focus on and form questions about. Kind of thinking of them as segments in a semi-structured interview. The four catagories were
+
+1) UNIX
+-reading the art of unix programming
+-getting more familure with command line navigation/commands
+-setting permissions
+
+2) Git/Github
+-i'm taking this class thats pretty great
+-failed the linked in quiz / half the questions were on rebasing
+-merge conflicts and p4merge
+-i'm using git/hub to share these questions and lots of other things
+
+3) Python
+-I want this to be my primary instrument t
+-its my first love and i like data and its ease of style
+-I need to fill in the holes and gradually dig in deeper 
+-loops are something I need to really drill down on... so basic
+-really get good at pandas and webscrapping/parsing
+
+4) CS/Datastructures
+-don't really know where to start here.. turing?
+-I mentioned b-trees to jeff and he went "woah" and mentined another typ of branch that starts with a B.
+-I would need some direction for this one or we can turn it more into the "process".. i'm sure theres some similarity.
+
+Ok.. thats all for now. I will try to add to this stuff and maybe it will help me understand how git works!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
