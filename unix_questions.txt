@@ -47,10 +47,8 @@ Far too many software designs are non-orthogonal. One common class of design mis
 
 Refactoring [Fowler]
 
-
-
-
-
+I'm rereading chapter four and I don't know what subroutine is
+ modularize at the subroutine level withi programs
 
 
 

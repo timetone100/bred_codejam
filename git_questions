@@ -9,3 +9,45 @@ Its about markdown language.
 ??? Whats the plug in to see it in vim?
 ??? Best README.md protocol?
 ??? 
+
+since I did so badly on the linked in git quiz, i'm going to do it again and take pics of all questions..
+
+well.. that was embarrasing.. I think i did worse than the first time and thought I couldv'e passed. bottom 30 percent.
+
+So we at least have 15 questions to talk about!!! next time I have to take pics of my answers.. its also my last try i think!
+
+
+1) git checkout 
+	git checkout feature-user-location
+	git cherry-pick (who-gives-a-shit)
+	
+2) what option can be used with the git config command to apply configs across the entire GIT environment?
+# multiple choice options : )
+
+3) Why would you use a pre-recieve hook in your remote repository?
+
+4) what happens if you runn this command from your master branch?
+	git checkout -b beta-test
+		# another mention of checkout 
+		# I don't know what -b means, but I expected beta-test to be a file name
+		
+5) after mistakenly staging a file named myFile to the index, how would yyou remove it from the index to exclude it from your next commit?
+
+6) how does git internally manage branches?
+
+7) which command correctly creates a lightweight tag
+
+8) you found a bug in your system but can't locate where it was introduced in the commit history. How would you diagnose this problem?
+
+9) What is a remote repository?
+
+10) git reset help???
+
+11) create a custom shortcut or command across 
+
+hanging out with this I think its a valuble lesson.
+
+taking quizes is important for two reasons.. 
+I started that sentence thinking about comparing testing/evaluating and aiming tragectory.. but..
+I've been learning about modern control systems and realized to test ones understanding and to create a "closed loop" of understanding can be considered one thing. 
+
